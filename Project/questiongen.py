@@ -1,6 +1,6 @@
 import pandas as pd
 from IPython.display import Markdown, display, clear_output
-import _pickle as cPickle
+import pickle5 as cPickle
 from pathlib import Path
 import spacy
 from spacy import displacy
