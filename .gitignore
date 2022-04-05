@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 Question-Generation/
 Transformer-ocr/
+.DS_Store
